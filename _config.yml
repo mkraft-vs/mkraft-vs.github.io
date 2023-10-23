@@ -10,7 +10,7 @@ locale                   : "de-DE"
 title                    : "Manfred Kraft"
 title_separator          : "-"
 name                     : &name "Manfred Kraft"
-description              : &description "Beschreibung"
+description              : &description "Consulting Biodiversity and Beekeeping"
 url                      : https://mkraft-vs.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "mkraft-vs/mkraft-vs.github.io"
@@ -80,9 +80,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "mkraft-vs"
+  name             : "Manfred Kraft"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "Consulting Biodiversity and Beekeeping"
   location         : "Unterkirnach"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
