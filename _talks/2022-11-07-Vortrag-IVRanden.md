@@ -10,4 +10,4 @@ date: 2023-11-17
 location: "Randen, Baden"
 ---
 
-Vortrag beim lokalen Imkerverein in Randenr
+Vortrag beim lokalen Imkerverein in Randen
