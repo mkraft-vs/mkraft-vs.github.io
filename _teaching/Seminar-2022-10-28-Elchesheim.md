@@ -8,7 +8,7 @@ date: 2022-10-28
 location: "Elchesheim"
 ---
 
-Seminar in Kooperation mit EDEKA
+## Seminar in Kooperation mit EDEKA
 
 Anmerkung 1
 ======

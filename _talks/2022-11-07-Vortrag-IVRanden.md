@@ -6,7 +6,7 @@ collection: talks
 type: "Bienenweide"
 permalink: /talks/2022-11-07-IVRanden
 venue: "Landesverband der bad. Imker e. V."
-date: 2023-11-17
+date: 2022-11-17
 location: "Randen, Baden"
 ---
 
