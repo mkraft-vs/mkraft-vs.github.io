@@ -8,11 +8,16 @@ redirect_from:
 - /about.html
 ---
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 ## Positions-Papier „Bienenwelten-Symposium“
 
 
 
+=======
+## Positions-Papier „Biodiversität“
+
+>>>>>>> 772dfa5a2f56f91084150d3bb8e975b50de0ec95
 * Die Imker sollten sich für alle Bienen-Arten zuständig und verantwortlich verstehen, 
   da die Bienen die Natur gemeinsam nutzen. 
   Dies sollte die übrigen Bestäuber-Insekten ebenfalls einschließen.
