@@ -4,15 +4,15 @@ collection: teaching
 type: "Seminar"
 permalink: /teaching/2022-10-28-Elchesheim
 venue: "Elchesheim"
-date: 2014-01-01
+date: 2022-10-28
 location: "Elchesheim"
 ---
 
-
-
-Heading 1
-======
 Seminar in Kooperation mit EDEKA
+
+Anmerkung 1
+======
+Die Elchesheimer Bürgerinitiative hat beim EDEKA-Wettbewerb einen Preis gewonnen
 
 Heading 2
 ======
