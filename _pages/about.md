@@ -1,11 +1,11 @@
 ---
-permalink: /
 title: "Biodiversität"
-excerpt: "Some more infos about me"
-author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
+permalink: /
+excerpt: Some more infos about me
+author_profile: yes
+redirect_from:
+- /about/
+- /about.html
 ---
 
 ## Positions-Papier „Bienenwelten-Symposium“
