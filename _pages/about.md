@@ -24,7 +24,8 @@ redirect_from:
     + Wiesenverlust durch Umwandlung in Ackerflächen
     + Umstellung des Futters von Heu zur Silage  => 
       Verlust der „Sommertracht“ für die Bestäuber,
-      und **die Wildbienen sind davon besonders betroffen!**
+      und 
+    * **die Wildbienen sind davon besonders betroffen!**
     + Überdüngung des Dauergrünlandes
     + Verlust der Rand-Zonen 
     + Schottergärten und Flächen-Versiegelung
