@@ -1,7 +1,7 @@
 ---
 title: "Konkurrenz Honigbienen vs. Wildbienen"
 collection: talks
-type: "Bienenweide"
+type: "Wildbienen"
 permalink: /talks/2023-11-17-StPeter
 venue: "St. Peter"
 date: 2023-11-17
