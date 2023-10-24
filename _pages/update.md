@@ -13,7 +13,7 @@ redirect_from:
   da die Bienen die Natur gemeinsam nutzen. 
   Dies sollte die übrigen Bestäuber-Insekten ebenfalls einschließen.
 * Nahrungs-Konkurrenz zwischen Honigbienen und Wildbienen besteht und 
-  muss aufgrund des örtlichen Trachtangebots im Konsens vor Ort geregelt werden, 
+  sollte aufgrund des örtlichen Trachtangebots im Konsens vor Ort geregelt werden, 
 * Der Biodiversitätsverlust ist aufgrund des unbedachten oder unverantwortlichen Umgangs 
   mit den noch vorhandenen Naturflächen also den Blühflächen entstanden
     + Flächenverbrauch
