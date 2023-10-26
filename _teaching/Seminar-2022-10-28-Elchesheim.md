@@ -10,12 +10,32 @@ location: "Elchesheim"
 
 ## Seminar in Kooperation mit EDEKA
 
-Anmerkung 1
+Anmerkung
 ======
 Die Elchesheimer Bürgerinitiative hat beim EDEKA-Wettbewerb einen Preis gewonnen
 
-Heading 2
-======
 
-Heading 3
+Programm 
 ======
+**Im ersten Teil werden nach einer**
+
++ “Einführung” die Themen
+
++ “Wiesen-Wissen ” und
+
++ “Saatgut”
+
+**behandelt.**
+
+**Im zweiten Teil des Seminars werden dann,
+aufbauend auf den ersten Teil, die Themen**
+
++ “Vorbereitung der Fläche”,
+
++ “Auswahl des richtigen Saatguts”, die
+
++ “Einsaat” und die
+
++ “Pflege der Fläche”
+
+**behandelt.**
